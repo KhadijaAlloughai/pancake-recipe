@@ -1,1 +1,4 @@
-"# Grandma's Pancake" 
+"# Grandma's Pancake"
+
+\# tweak sugar amount,
+
